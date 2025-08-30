@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="ru_pano37_title"><![CDATA[Villa Chantal]]></data>
+  <data name="ru_spotpoint72_tooltip"><![CDATA[Terasa]]></data>
+
+
+  <data name="ru_pano38_title"><![CDATA[Terasa]]></data>
+  <data name="ru_spotpoint73_tooltip"><![CDATA[Room1]]></data>
+  <data name="ru_spotpoint84_tooltip"><![CDATA[Villa Chantal]]></data>
+
+
+  <data name="ru_pano39_title"><![CDATA[Room1]]></data>
+  <data name="ru_spotpoint74_tooltip"><![CDATA[Kitchen]]></data>
+  <data name="ru_spotpoint85_tooltip"><![CDATA[Pass02]]></data>
+  <data name="ru_spotpoint86_tooltip"><![CDATA[Terasa]]></data>
+  <data name="ru_spotpoint87_tooltip"><![CDATA[Pass01]]></data>
+
+
+  <data name="ru_pano40_title"><![CDATA[Room2]]></data>
+  <data name="ru_spotpoint79_tooltip"><![CDATA[Pass01]]></data>
+
+
+  <data name="ru_pano41_title"><![CDATA[Room3]]></data>
+  <data name="ru_spotpoint95_tooltip"><![CDATA[Villa Chantal]]></data>
+  <data name="ru_spotpoint96_tooltip"><![CDATA[Pass02]]></data>
+
+
+  <data name="ru_pano42_title"><![CDATA[Room4]]></data>
+  <data name="ru_spotpoint97_tooltip"><![CDATA[Villa Chantal]]></data>
+  <data name="ru_spotpoint98_tooltip"><![CDATA[Vc02]]></data>
+  <data name="ru_spotpoint99_tooltip"><![CDATA[Pass02]]></data>
+
+
+  <data name="ru_pano43_title"><![CDATA[Kitchen]]></data>
+  <data name="ru_spotpoint75_tooltip"><![CDATA[Room1]]></data>
+  <data name="ru_spotpoint76_tooltip"><![CDATA[Pass01]]></data>
+  <data name="ru_spotpoint83_tooltip"><![CDATA[Pass02]]></data>
+  <data name="ru_spotpoint100_tooltip"><![CDATA[Terasa]]></data>
+  <data name="ru_spotpoint101_tooltip"><![CDATA[Room2]]></data>
+  <data name="ru_spotpoint102_tooltip"><![CDATA[Vc01]]></data>
+
+
+  <data name="ru_pano44_title"><![CDATA[Pass01]]></data>
+  <data name="ru_spotpoint77_tooltip"><![CDATA[Vc01]]></data>
+  <data name="ru_spotpoint78_tooltip"><![CDATA[Room2]]></data>
+  <data name="ru_spotpoint80_tooltip"><![CDATA[Kitchen]]></data>
+  <data name="ru_spotpoint81_tooltip"><![CDATA[Room1]]></data>
+  <data name="ru_spotpoint82_tooltip"><![CDATA[Pass02]]></data>
+
+
+  <data name="ru_pano45_title"><![CDATA[Pass02]]></data>
+  <data name="ru_spotpoint88_tooltip"><![CDATA[Room3]]></data>
+  <data name="ru_spotpoint89_tooltip"><![CDATA[Room4]]></data>
+  <data name="ru_spotpoint90_tooltip"><![CDATA[Room1]]></data>
+
+
+  <data name="ru_pano46_title"><![CDATA[Vc01]]></data>
+  <data name="ru_spotpoint91_tooltip"><![CDATA[Pass01]]></data>
+
+
+  <data name="ru_pano47_title"><![CDATA[Vc02]]></data>
+  <data name="ru_spotpoint92_tooltip"><![CDATA[Room4]]></data>
+  <data name="ru_spotpoint93_tooltip"><![CDATA[Pass02]]></data>
+
+
+
+
+
+
+  <data name="ru_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="ru_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="ru_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="ru_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="ru_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="ru_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="ru_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="ru_controlBar_classicmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="ru_controlBar_classicmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="ru_controlBar_classicmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="ru_controlBar_classicmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="ru_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="ru_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="ru_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="ru_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="ru_controlBar_classicsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="ru_controlBar_classicsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="ru_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="ru_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="ru_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="ru_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="ru_controlBar_classicenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="ru_controlBar_classicenterVRNotTip"><![CDATA[VR mode is unavailable]]></data>
+  <data name="ru_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="ru_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="ru_controlBar_classicctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="ru_controlBar_classicctrlmodeMoveTip"><![CDATA[Change control mode ]]></data>
+  <data name="ru_logowebsiteurl"><![CDATA[https://ajde.myportfolio.com/]]></data>
+  <data name="ru_logotooltipText"><![CDATA[Open website]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
